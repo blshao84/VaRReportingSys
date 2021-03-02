@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-02T03:15:42.177Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="MzJX0DC-tGpbq2I5etg3" version="14.4.3" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2021-03-02T03:19:38.181Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="d6zrLQ7E3mVTRRJRYeLt" version="14.4.3" type="github" pages="14">
   <diagram id="nSod4oKvHVvJ7kChQJ3G" name="Page-1">
     <mxGraphModel dx="1426" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4980,7 +4980,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="二期-数据架构-VaR服务" id="8a7WXk0ygJhmRgiA3Lto">
-    <mxGraphModel dx="2493" dy="1994" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1620" dy="1562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="MjwH9osfqDuXdXD5mya3-0" />
         <mxCell id="MjwH9osfqDuXdXD5mya3-1" parent="MjwH9osfqDuXdXD5mya3-0" />
@@ -5603,11 +5603,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MjwH9osfqDuXdXD5mya3-131" value="" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#A9C4EB;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" vertex="1" parent="MjwH9osfqDuXdXD5mya3-1">
-          <mxGeometry x="1731.25" y="-250" width="170" height="60" as="geometry" />
+        <mxCell id="MjwH9osfqDuXdXD5mya3-131" value="场内数据" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#A9C4EB;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" vertex="1" parent="MjwH9osfqDuXdXD5mya3-1">
+          <mxGeometry x="1731.25" y="-290" width="170" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="MjwH9osfqDuXdXD5mya3-132" value="场内持仓" style="text;html=1;strokeColor=none;fillColor=#A9C4EB;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MjwH9osfqDuXdXD5mya3-131">
-          <mxGeometry y="20" width="170" height="40" as="geometry" />
+        <mxCell id="MjwH9osfqDuXdXD5mya3-132" value="场内期货持仓&lt;br&gt;场内期权数据&lt;br&gt;场内成交/持仓&lt;br&gt;场内标的乘数&lt;br&gt;对手方期货持仓" style="text;html=1;strokeColor=none;fillColor=#A9C4EB;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MjwH9osfqDuXdXD5mya3-131">
+          <mxGeometry y="20" width="170" height="90" as="geometry" />
         </mxCell>
         <mxCell id="MjwH9osfqDuXdXD5mya3-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;" edge="1" parent="MjwH9osfqDuXdXD5mya3-1" source="MjwH9osfqDuXdXD5mya3-140" target="MjwH9osfqDuXdXD5mya3-157">
           <mxGeometry relative="1" as="geometry">
@@ -5812,6 +5812,53 @@
         </mxCell>
         <mxCell id="MjwH9osfqDuXdXD5mya3-164" value="&lt;font style=&quot;font-size: 18px&quot;&gt;position.csv&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MjwH9osfqDuXdXD5mya3-1">
           <mxGeometry x="660" y="200" width="76" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="MjwH9osfqDuXdXD5mya3-165" value="客户资金数据" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=20;fillColor=#A9C4EB;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;swimlaneFillColor=#ffffff;" vertex="1" parent="MjwH9osfqDuXdXD5mya3-1">
+          <mxGeometry x="1983" y="-265" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MjwH9osfqDuXdXD5mya3-166" value="客户资金表" style="text;html=1;strokeColor=none;fillColor=#A9C4EB;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MjwH9osfqDuXdXD5mya3-165">
+          <mxGeometry y="20" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MjwH9osfqDuXdXD5mya3-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;fillColor=#FFD966;" edge="1" parent="MjwH9osfqDuXdXD5mya3-1" source="MjwH9osfqDuXdXD5mya3-166" target="MjwH9osfqDuXdXD5mya3-140">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2068" y="-30" />
+              <mxPoint x="2068" y="-30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MjwH9osfqDuXdXD5mya3-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;fillColor=#FFD966;" edge="1" parent="MjwH9osfqDuXdXD5mya3-1" source="MjwH9osfqDuXdXD5mya3-168" target="MjwH9osfqDuXdXD5mya3-140">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2235" y="-30" />
+              <mxPoint x="2235" y="-30" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MjwH9osfqDuXdXD5mya3-168" value="商品现货" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#292929;fillColor=#E6E6E6;" vertex="1" parent="MjwH9osfqDuXdXD5mya3-1">
+          <mxGeometry x="2219.2" y="-275.3" width="30.8" height="70.6" as="geometry" />
+        </mxCell>
+        <mxCell id="MjwH9osfqDuXdXD5mya3-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;fillColor=#FFD966;" edge="1" parent="MjwH9osfqDuXdXD5mya3-1" source="MjwH9osfqDuXdXD5mya3-169" target="MjwH9osfqDuXdXD5mya3-140">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2310" y="-50" />
+              <mxPoint x="2310" y="-50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MjwH9osfqDuXdXD5mya3-169" value="金融现货" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#292929;fillColor=#E6E6E6;" vertex="1" parent="MjwH9osfqDuXdXD5mya3-1">
+          <mxGeometry x="2294.6" y="-275.3" width="30.8" height="70.6" as="geometry" />
+        </mxCell>
+        <mxCell id="MjwH9osfqDuXdXD5mya3-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;fillColor=#FFD966;" edge="1" parent="MjwH9osfqDuXdXD5mya3-1" source="MjwH9osfqDuXdXD5mya3-170" target="MjwH9osfqDuXdXD5mya3-140">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2435" y="-40" />
+              <mxPoint x="2435" y="-40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MjwH9osfqDuXdXD5mya3-170" value="净资本" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#292929;fillColor=#E6E6E6;" vertex="1" parent="MjwH9osfqDuXdXD5mya3-1">
+          <mxGeometry x="2420" y="-275.6" width="30.8" height="70.6" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
