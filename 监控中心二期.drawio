@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-05T07:52:25.034Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="TBYhwI6wdqnGPBJN3B1q" version="14.4.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-03-05T08:06:55.453Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="6B0ihkE5TJn6-E1Yweq7" version="14.4.3" type="github" pages="3">
   <diagram name="迭代一-数据架构" id="EVyQv78SQB6Gc9LlnjYt">
     <mxGraphModel dx="4159" dy="2705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2176,7 +2176,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="5Ps9vOGeqcC94r5yKa-y" name="迭代三-数据架构">
-    <mxGraphModel dx="6380" dy="3729" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2787" dy="2073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="FRiWoDvFBrlKTHTGDpMr-0" />
         <mxCell id="FRiWoDvFBrlKTHTGDpMr-1" parent="FRiWoDvFBrlKTHTGDpMr-0" />
@@ -2893,6 +2893,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="JCVYX-JEqFNJoFiBvvEH-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#3333FF;" edge="1" parent="FRiWoDvFBrlKTHTGDpMr-1" source="FRiWoDvFBrlKTHTGDpMr-156" target="JCVYX-JEqFNJoFiBvvEH-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="FRiWoDvFBrlKTHTGDpMr-156" value="&lt;font style=&quot;font-size: 12px&quot;&gt;数据集成&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#EA6B66;" vertex="1" parent="FRiWoDvFBrlKTHTGDpMr-1">
           <mxGeometry x="580" y="-340" width="2370" height="60" as="geometry" />
         </mxCell>
@@ -3158,6 +3161,21 @@
         </mxCell>
         <mxCell id="JCVYX-JEqFNJoFiBvvEH-39" value="daily_client_account_statement" style="text;html=1;strokeColor=none;fillColor=#00CCCC;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JCVYX-JEqFNJoFiBvvEH-38">
           <mxGeometry y="20" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JCVYX-JEqFNJoFiBvvEH-40" value="" style="group" vertex="1" connectable="0" parent="FRiWoDvFBrlKTHTGDpMr-1">
+          <mxGeometry x="330" y="-170" width="370" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="JCVYX-JEqFNJoFiBvvEH-41" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#292929;fillColor=#E6E6E6;" vertex="1" parent="JCVYX-JEqFNJoFiBvvEH-40">
+          <mxGeometry y="29.399999999999977" width="30.8" height="70.6" as="geometry" />
+        </mxCell>
+        <mxCell id="JCVYX-JEqFNJoFiBvvEH-42" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#292929;fillColor=#E6E6E6;" vertex="1" parent="JCVYX-JEqFNJoFiBvvEH-40">
+          <mxGeometry x="29" y="9.399999999999977" width="30.8" height="70.6" as="geometry" />
+        </mxCell>
+        <mxCell id="JCVYX-JEqFNJoFiBvvEH-43" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.file;aspect=fixed;strokeColor=#292929;fillColor=#E6E6E6;" vertex="1" parent="JCVYX-JEqFNJoFiBvvEH-40">
+          <mxGeometry x="54" width="30.8" height="70.6" as="geometry" />
+        </mxCell>
+        <mxCell id="2pxWbNgLOtqdABUWz3sJ-40" value="positions.json" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JCVYX-JEqFNJoFiBvvEH-40">
+          <mxGeometry x="105" y="29" width="95" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
