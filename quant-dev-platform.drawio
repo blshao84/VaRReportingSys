@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-27T07:04:16.548Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="kSE5PbRQ6zUTwQDqWFW3" version="15.3.4" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2021-09-28T05:35:28.570Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="pH0SRzjdff_uvAel5iK6" version="15.3.4" type="github" pages="13">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1666" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -3564,6 +3564,14 @@
         <mxCell id="GOlyUifPPHfE7NZCAZZr-22" value="barrier" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GOlyUifPPHfE7NZCAZZr-13">
           <mxGeometry x="-0.3361" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GOlyUifPPHfE7NZCAZZr-30" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=openThin;endFill=0;startSize=14;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="7r_EExbXfx727H4WrzWe-1" source="GOlyUifPPHfE7NZCAZZr-4" target="GOlyUifPPHfE7NZCAZZr-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GOlyUifPPHfE7NZCAZZr-31" value="snowball" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GOlyUifPPHfE7NZCAZZr-30">
+          <mxGeometry x="-0.15" relative="1" as="geometry">
+            <mxPoint x="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="GOlyUifPPHfE7NZCAZZr-4" value="BlackScholes" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;" vertex="1" parent="7r_EExbXfx727H4WrzWe-1">
