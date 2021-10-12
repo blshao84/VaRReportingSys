@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-12T08:28:47.557Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="m5xgYLyVP4zVG7V5gZrP" version="15.3.4" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2021-10-12T08:29:35.561Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.71 Safari/537.36" etag="5MTUd08rzDiIN0W9BEKa" version="15.3.4" type="github" pages="14">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -3681,11 +3681,11 @@
         <mxCell id="sp4UN0wRuWQWMkG4_Pyh-11" value="定价算法&lt;br&gt;&lt;span style=&quot;font-size: 15px&quot;&gt;(Analytics Api)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="sp4UN0wRuWQWMkG4_Pyh-6">
           <mxGeometry x="481" width="101" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sp4UN0wRuWQWMkG4_Pyh-12" value="Core Infrastructure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=20;" vertex="1" parent="EGGyexcvz3YvYPP7vGmT-1">
-          <mxGeometry x="-30" y="600" width="209" height="20" as="geometry" />
+        <mxCell id="sp4UN0wRuWQWMkG4_Pyh-12" value="基础架构&lt;br&gt;Core Infrastructure" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=20;" vertex="1" parent="EGGyexcvz3YvYPP7vGmT-1">
+          <mxGeometry x="-30" y="590" width="209" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="sp4UN0wRuWQWMkG4_Pyh-13" value="Business Abstraction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=20;" vertex="1" parent="EGGyexcvz3YvYPP7vGmT-1">
-          <mxGeometry x="-30" y="480" width="189.5" height="20" as="geometry" />
+        <mxCell id="sp4UN0wRuWQWMkG4_Pyh-13" value="业务抽象&lt;br&gt;Business Abstraction" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=20;" vertex="1" parent="EGGyexcvz3YvYPP7vGmT-1">
+          <mxGeometry x="-30" y="470" width="189.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="sp4UN0wRuWQWMkG4_Pyh-14" value="Programmatic API&lt;br&gt;（DSL）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=20;" vertex="1" parent="EGGyexcvz3YvYPP7vGmT-1">
           <mxGeometry x="-30" y="365" width="189.5" height="20" as="geometry" />
