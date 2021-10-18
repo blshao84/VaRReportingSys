@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-18T14:54:17.375Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="z8Ed87MMnBjO_mzpt35q" version="15.5.5" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2021-10-18T14:56:18.509Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="0bdGQ31EN2LtSmY9z1gg" version="15.5.5" type="github" pages="16">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1026" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2592,12 +2592,12 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of calc" id="A4yoS5XnWkGjrsVN0-TX">
-    <mxGraphModel dx="314" dy="2557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="2982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="SnuKNL2cNBQJqkdxR08e-0" />
         <mxCell id="SnuKNL2cNBQJqkdxR08e-1" parent="SnuKNL2cNBQJqkdxR08e-0" />
         <mxCell id="SnuKNL2cNBQJqkdxR08e-2" value="" style="html=1;dashed=1;whitespace=wrap;" vertex="1" parent="SnuKNL2cNBQJqkdxR08e-1">
-          <mxGeometry x="530" y="-1530" width="1080" height="250" as="geometry" />
+          <mxGeometry x="500" y="-1570" width="1110" height="290" as="geometry" />
         </mxCell>
         <mxCell id="SnuKNL2cNBQJqkdxR08e-3" value="" style="html=1;dashed=1;whitespace=wrap;" vertex="1" parent="SnuKNL2cNBQJqkdxR08e-1">
           <mxGeometry x="815" y="-1120" width="665" height="420" as="geometry" />
@@ -2717,7 +2717,7 @@
         <mxCell id="SnuKNL2cNBQJqkdxR08e-247" value="pv1" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start" vertex="1" parent="SnuKNL2cNBQJqkdxR08e-1">
           <mxGeometry x="892" y="-1485" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SnuKNL2cNBQJqkdxR08e-248" value="7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="SnuKNL2cNBQJqkdxR08e-1" source="SnuKNL2cNBQJqkdxR08e-249" target="SnuKNL2cNBQJqkdxR08e-242">
+        <mxCell id="SnuKNL2cNBQJqkdxR08e-248" value="7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classicThin;endFill=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#0000FF;" edge="1" parent="SnuKNL2cNBQJqkdxR08e-1" source="SnuKNL2cNBQJqkdxR08e-249" target="SnuKNL2cNBQJqkdxR08e-242">
           <mxGeometry x="-0.2207" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
@@ -2741,7 +2741,7 @@
         <mxCell id="SnuKNL2cNBQJqkdxR08e-254" value="2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.5;entryDx=0;entryDy=-15;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="SnuKNL2cNBQJqkdxR08e-1" source="SnuKNL2cNBQJqkdxR08e-255" target="SnuKNL2cNBQJqkdxR08e-287">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SnuKNL2cNBQJqkdxR08e-302" value="6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=-15;exitPerimeter=0;" edge="1" parent="SnuKNL2cNBQJqkdxR08e-1" source="SnuKNL2cNBQJqkdxR08e-255" target="SnuKNL2cNBQJqkdxR08e-241">
+        <mxCell id="SnuKNL2cNBQJqkdxR08e-302" value="6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=-15;exitPerimeter=0;strokeColor=#0000FF;" edge="1" parent="SnuKNL2cNBQJqkdxR08e-1" source="SnuKNL2cNBQJqkdxR08e-255" target="SnuKNL2cNBQJqkdxR08e-241">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="930" y="-1450" />
@@ -2911,7 +2911,7 @@
           <mxGeometry x="650" y="-1520" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SnuKNL2cNBQJqkdxR08e-290" value="1. each priceable&#39;s pv first submits request to grid and then triggers calculation on grid and collects results&lt;br&gt;2. each submit depends on transforming priceable to analytics payoff &lt;br&gt;3-5. And fetching corresponding market data and model data (model selection) based on configurations.&amp;nbsp;&lt;br&gt;6. each pv calc sends a pricing request to grid&lt;br&gt;7. After all requests are sent, &#39;collect&#39; triggers the calculation on grid (with distributions) and receives pricing results&amp;nbsp;&lt;br&gt;8. and distribute to each pv calc" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SnuKNL2cNBQJqkdxR08e-1">
-          <mxGeometry x="1665" y="-1370" width="215" height="250" as="geometry" />
+          <mxGeometry x="1654" y="-1550" width="215" height="250" as="geometry" />
         </mxCell>
         <mxCell id="SnuKNL2cNBQJqkdxR08e-291" value="1. CalcRunnerApp sends a &#39;collect&#39; request to grid containing all job ids returned from each &#39;submit&#39; request.&amp;nbsp;&lt;br&gt;2. &#39;ray-serve&#39; fetch all pricing requests from redis by job ids and group pricing requests into batches.&amp;nbsp;&lt;br&gt;3. each batch is sent to one node on ray grid&lt;br&gt;4.&amp;nbsp; and returns results to &#39;collect&#39;&lt;br&gt;5. when all batches are finished, all results are returned to CalcRunnerApp" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="SnuKNL2cNBQJqkdxR08e-1">
           <mxGeometry x="1513" y="-1045" width="297" height="155" as="geometry" />
@@ -2947,6 +2947,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SnuKNL2cNBQJqkdxR08e-316" value="Dependency" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SnuKNL2cNBQJqkdxR08e-315">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SnuKNL2cNBQJqkdxR08e-321" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#0000FF;" edge="1" parent="SnuKNL2cNBQJqkdxR08e-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="-1330" as="sourcePoint" />
+            <mxPoint x="640" y="-1330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SnuKNL2cNBQJqkdxR08e-322" value="Http Req" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="SnuKNL2cNBQJqkdxR08e-321">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
