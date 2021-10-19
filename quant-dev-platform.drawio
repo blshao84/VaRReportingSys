@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-19T00:48:05.584Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="lnQxJ48wUtB_AkjvaITU" version="15.5.2" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2021-10-19T00:49:42.527Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="9rveChw-eXWjrHyszsg0" version="15.5.2" type="github" pages="16">
   <diagram name="Page-1" id="12e1b939-464a-85fe-373e-61e167be1490">
     <mxGraphModel dx="1426" dy="793" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -2592,7 +2592,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Copy of calc" id="A4yoS5XnWkGjrsVN0-TX">
-    <mxGraphModel dx="1678" dy="3311" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1960" dy="3271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="SnuKNL2cNBQJqkdxR08e-0" />
         <mxCell id="SnuKNL2cNBQJqkdxR08e-1" parent="SnuKNL2cNBQJqkdxR08e-0" />
@@ -2600,7 +2600,7 @@
           <mxGeometry x="500" y="-1570" width="1110" height="290" as="geometry" />
         </mxCell>
         <mxCell id="SnuKNL2cNBQJqkdxR08e-3" value="" style="html=1;dashed=1;whitespace=wrap;" parent="SnuKNL2cNBQJqkdxR08e-1" vertex="1">
-          <mxGeometry x="827" y="-1120" width="665" height="420" as="geometry" />
+          <mxGeometry x="780" y="-1120" width="712" height="420" as="geometry" />
         </mxCell>
         <mxCell id="SnuKNL2cNBQJqkdxR08e-200" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="SnuKNL2cNBQJqkdxR08e-1" source="SnuKNL2cNBQJqkdxR08e-204" target="SnuKNL2cNBQJqkdxR08e-238" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -2907,7 +2907,7 @@
           <mxGeometry x="1513" y="-960" width="777" height="155" as="geometry" />
         </mxCell>
         <mxCell id="SnuKNL2cNBQJqkdxR08e-292" value="&lt;font style=&quot;font-size: 18px&quot;&gt;1.每个CalcRunnerApp中的pv计算都会向Ray集群发送一个定价请求，它包含了定价该Priceable所需要的所有数据（产品信息、行情、模型、定价参数等）。Ray通过Ray-Serve模块来对外提供http API&lt;br&gt;2. &#39;submit&#39; API接受到一个定价请求之后直接将该请求放入Redis缓存中并生成一个job id与之匹配&lt;br&gt;3. 最后将这个Job ID返回&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="SnuKNL2cNBQJqkdxR08e-1" vertex="1">
-          <mxGeometry x="270" y="-1030" width="525" height="210" as="geometry" />
+          <mxGeometry x="210" y="-1030" width="525" height="210" as="geometry" />
         </mxCell>
         <mxCell id="SnuKNL2cNBQJqkdxR08e-293" value="cached" style="html=1;dashed=0;whitespace=wrap;shape=mxgraph.dfd.start;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="SnuKNL2cNBQJqkdxR08e-1" vertex="1">
           <mxGeometry x="550" y="-1470" width="80" height="30" as="geometry" />
