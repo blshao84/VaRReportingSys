@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T14:25:53.501Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="DKtSDlDT40YPZVmLoUOx" version="15.5.2" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2021-10-20T14:26:37.192Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="82tgMxU5ys2KEl2GbJg3" version="15.5.2" type="github" pages="17">
   <diagram id="zYoErhl1gCxoGuJL3JhY" name="业务层级拆分">
     <mxGraphModel dx="2293" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1726,9 +1726,6 @@
         <mxCell id="XZVYuM5zhRznHekWCqPb-16" value="&lt;font style=&quot;font-size: 12px&quot;&gt;交易量化&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;dashed=1;fontSize=16;fillColor=none;" vertex="1" parent="EGGyexcvz3YvYPP7vGmT-1">
           <mxGeometry x="281.5" y="-80" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XZVYuM5zhRznHekWCqPb-17" value="Data History Viewer" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;fontSize=12;strokeWidth=1;fillColor=#f8cecc;align=center;strokeColor=#b85450;" vertex="1" parent="EGGyexcvz3YvYPP7vGmT-1">
-          <mxGeometry x="1085.75" y="130" width="143" height="53" as="geometry" />
-        </mxCell>
         <mxCell id="XZVYuM5zhRznHekWCqPb-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;endArrow=openThin;endFill=0;strokeColor=#000000;exitX=0.55;exitY=0.95;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="EGGyexcvz3YvYPP7vGmT-1" source="XZVYuM5zhRznHekWCqPb-35" target="XZVYuM5zhRznHekWCqPb-0">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -1737,7 +1734,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="XZVYuM5zhRznHekWCqPb-35" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;External Systems&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fillColor=none;" vertex="1" parent="EGGyexcvz3YvYPP7vGmT-1">
+        <mxCell id="XZVYuM5zhRznHekWCqPb-35" value="&lt;font style=&quot;font-size: 16px&quot;&gt;外部系统&lt;br&gt;（簿记、行情）&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fillColor=none;" vertex="1" parent="EGGyexcvz3YvYPP7vGmT-1">
           <mxGeometry x="860" y="-90" width="207" height="80" as="geometry" />
         </mxCell>
       </root>
