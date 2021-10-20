@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T14:25:00.243Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="hvLpDHplC9CVc3EPJ33d" version="15.5.2" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2021-10-20T14:25:24.190Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="bzI2gGK0h1DwE51sjFrV" version="15.5.2" type="github" pages="17">
   <diagram id="zYoErhl1gCxoGuJL3JhY" name="业务层级拆分">
     <mxGraphModel dx="2293" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1369,7 +1369,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="haWXIw2EMZZPNKgJu8ol" name="architecture-2">
-    <mxGraphModel dx="696" dy="1605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="338" dy="1381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="EGGyexcvz3YvYPP7vGmT-0" />
         <mxCell id="EGGyexcvz3YvYPP7vGmT-1" parent="EGGyexcvz3YvYPP7vGmT-0" />
@@ -1615,9 +1615,6 @@
           <mxGeometry x="-0.7717" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="XZVYuM5zhRznHekWCqPb-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;endArrow=openThin;endFill=0;strokeColor=#000000;" edge="1" parent="EGGyexcvz3YvYPP7vGmT-1" source="XZVYuM5zhRznHekWCqPb-0" target="XZVYuM5zhRznHekWCqPb-1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XZVYuM5zhRznHekWCqPb-0" value="Trade/MarketData/RefData&lt;br&gt;Backfiller&lt;br&gt;(EOD &amp;amp; Realtime)" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;fontSize=12;strokeWidth=1;fillColor=#f8cecc;align=center;strokeColor=#b85450;" vertex="1" parent="EGGyexcvz3YvYPP7vGmT-1">
           <mxGeometry x="666" y="130" width="164" height="53" as="geometry" />
