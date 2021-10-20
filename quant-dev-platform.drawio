@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T10:06:53.624Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="j32LtAjNbGunZS9ejFv1" version="15.5.2" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2021-10-20T10:10:35.055Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="N_G3-nMW34R8mpZQsAa5" version="15.5.2" type="github" pages="16">
   <diagram id="zYoErhl1gCxoGuJL3JhY" name="业务层级拆分">
     <mxGraphModel dx="2293" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1369,7 +1369,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="haWXIw2EMZZPNKgJu8ol" name="architecture-2">
-    <mxGraphModel dx="405" dy="220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1698" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="EGGyexcvz3YvYPP7vGmT-0" />
         <mxCell id="EGGyexcvz3YvYPP7vGmT-1" parent="EGGyexcvz3YvYPP7vGmT-0" />
