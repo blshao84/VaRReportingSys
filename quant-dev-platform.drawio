@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-21T07:23:40.435Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="1xA6-jXczcYMz3zeqXiR" version="15.5.2" type="github" pages="17">
+<mxfile host="app.diagrams.net" modified="2021-10-21T07:26:40.038Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="lnUtZtYr1HWUkB5DtnJW" version="15.5.2" type="github" pages="17">
   <diagram id="zYoErhl1gCxoGuJL3JhY" name="业务层级拆分">
     <mxGraphModel dx="2293" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1369,7 +1369,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="haWXIw2EMZZPNKgJu8ol" name="architecture-2">
-    <mxGraphModel dx="840" dy="1719" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1015" dy="1833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="EGGyexcvz3YvYPP7vGmT-0" />
         <mxCell id="EGGyexcvz3YvYPP7vGmT-1" parent="EGGyexcvz3YvYPP7vGmT-0" />
@@ -1642,7 +1642,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="XZVYuM5zhRznHekWCqPb-11" value="&lt;font style=&quot;font-size: 16px&quot;&gt;Intraday/EOD 调度&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;dashed=1;fontSize=16;fillColor=none;" vertex="1" parent="EGGyexcvz3YvYPP7vGmT-1">
-          <mxGeometry x="652" y="-110" width="207" height="80" as="geometry" />
+          <mxGeometry x="652" y="-120" width="207" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XZVYuM5zhRznHekWCqPb-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;endArrow=openThin;endFill=0;strokeColor=#000000;" edge="1" parent="EGGyexcvz3YvYPP7vGmT-1" source="XZVYuM5zhRznHekWCqPb-16" target="XZVYuM5zhRznHekWCqPb-49">
           <mxGeometry relative="1" as="geometry" />
@@ -1676,6 +1676,22 @@
         </mxCell>
         <mxCell id="XZVYuM5zhRznHekWCqPb-52" value="Curve &amp;amp; Vol&lt;br&gt;Calibrators" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;fontSize=12;strokeWidth=1;fillColor=#f8cecc;align=center;strokeColor=#000000;" vertex="1" parent="EGGyexcvz3YvYPP7vGmT-1">
           <mxGeometry x="680" y="26.5" width="127" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="XZVYuM5zhRznHekWCqPb-57" value="DevOps运维工具" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;fontSize=12;strokeWidth=1;fillColor=#f8cecc;align=center;strokeColor=#000000;" vertex="1" parent="EGGyexcvz3YvYPP7vGmT-1">
+          <mxGeometry x="678.5" y="107" width="130" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="XZVYuM5zhRznHekWCqPb-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.999;entryY=0.64;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=none;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;endArrow=openThin;endFill=0;strokeColor=#000000;" edge="1" parent="EGGyexcvz3YvYPP7vGmT-1" source="XZVYuM5zhRznHekWCqPb-58" target="XZVYuM5zhRznHekWCqPb-57">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="915" y="135" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XZVYuM5zhRznHekWCqPb-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;endArrow=openThin;endFill=0;strokeColor=#000000;entryX=0.875;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="EGGyexcvz3YvYPP7vGmT-1" source="XZVYuM5zhRznHekWCqPb-58" target="XZVYuM5zhRznHekWCqPb-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XZVYuM5zhRznHekWCqPb-58" value="&lt;font style=&quot;font-size: 12px&quot;&gt;IT &amp;amp; 运维&lt;/font&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;dashed=1;fontSize=16;fillColor=none;" vertex="1" parent="EGGyexcvz3YvYPP7vGmT-1">
+          <mxGeometry x="900" y="-110" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
