@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-28T07:11:33.762Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="BU2aY_IpqzIZzV8TIeB-" version="15.5.9" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2021-10-28T07:12:46.830Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36" etag="7WHOAsMxvsuHGZeCxkxM" version="15.5.9" type="github" pages="16">
   <diagram id="zYoErhl1gCxoGuJL3JhY" name="业务层级拆分">
     <mxGraphModel dx="2253" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4227,7 +4227,7 @@
             <mxPoint x="-11" y="-10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HIYMlBdVPBY8kFw3qPhD-0" value="decompose" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#f8cecc;strokeColor=#b85450;" parent="7r_EExbXfx727H4WrzWe-1" vertex="1">
+        <mxCell id="HIYMlBdVPBY8kFw3qPhD-0" value="decompose" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;pointerEvents=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="7r_EExbXfx727H4WrzWe-1" vertex="1">
           <mxGeometry x="160" y="615" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HIYMlBdVPBY8kFw3qPhD-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontSize=12;fontColor=#000000;startArrow=none;startFill=0;endArrow=openThin;endFill=0;strokeColor=#000000;" parent="7r_EExbXfx727H4WrzWe-1" source="HIYMlBdVPBY8kFw3qPhD-1" target="HIYMlBdVPBY8kFw3qPhD-17" edge="1">
